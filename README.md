@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Python**, **Linux**, **R**, **Bash**, and **SQL**
 - 💻 I work with tools like **FastQC**, **HISAT2**, **MultiQC**, and **Biopython**
 - 💞️ I’m looking to collaborate on **bioinformatics pipelines**, **data engineering**, and **machine learning projects**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/murembiwa-mutswaletswale/) or email me at murembiwa.mc@gmail.com
+- 📫 How to reach me: [LinkedIn] (linkedin.com/in/murembiwa-mutswaletswale-3ba086226) or email me at murembiwa.mc@gmail.com
 - 😄 Pronouns: her/she
 
 <!---
