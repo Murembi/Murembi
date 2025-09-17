@@ -1,14 +1,8 @@
-# 👋 Hi, I’m @Murembi
+👀 Bioinformatics | Data Science | AI | Deep Learning
+🌱 Python | R | Bash | Linux | SQL
+💻 FastQC | HISAT2 | MultiQC | Biopython | Numpy | Bioinformatics pipelines
+💞️ Open to collaboration on Data Engineering & Machine Learning projects
+📫 LinkedIn | murembiwa.mc@gmail.com
 
-- 👀 I’m interested in **bioinformatics**, **data science**, and **AI applications in health and agriculture**
-- 🌱 I’m currently learning **Python**, **Linux**, **R**, **Bash**, and **SQL**
-- 💻 I work with tools like **FastQC**, **HISAT2**, **MultiQC**, and **Biopython**
-- 💞️ I’m looking to collaborate on **bioinformatics pipelines**, **data engineering**, and **machine learning projects**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/murembiwa-mutswaletswale-3ba086226/) or email me at **murembiwa.mc@gmail.com**
-- 😄 Pronouns: **she/her**
-- ⚡ Fun fact: I think DNA is just nature’s version of source code 🧬
-
-<!---
-Murembi/Murembi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+😄 Pronouns: she/her
+⚡ Fun fact: DNA = nature’s ultimate source code 🧬
