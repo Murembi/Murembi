@@ -1,7 +1,6 @@
 👀 Bioinformatics | Data Science | AI | Deep Learning
-🌱 Python | R | Bash | Linux | SQL
-💻 FastQC | HISAT2 | MultiQC | Biopython | Numpy | Bioinformatics pipelines
-💞️ Open to collaboration on Data Engineering & Machine Learning projects
+🌱 Python | R | Java | Bash | Linux | SQL
+💻 FastQC | HISAT2 | MultiQC | Biopython | NumPy | Pandas | Bioinformatics pipelines | Machine Learning
 📫 LinkedIn | murembiwa.mc@gmail.com
 
 😄 Pronouns: she/her
